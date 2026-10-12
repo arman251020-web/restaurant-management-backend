@@ -1,0 +1,11 @@
+
+node_modules/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+.DS_Store
+.vscode/
+coverage/
+dist/
+EOF
